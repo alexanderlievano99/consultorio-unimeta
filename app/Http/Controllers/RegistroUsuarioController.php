@@ -7,8 +7,8 @@ use Illuminate\Http\Request;
 class RegistroUsuarioController extends Controller
 {
     public function index(){
-        
-        
+
+
     }
 
     public function create(){
